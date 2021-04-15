@@ -1,5 +1,19 @@
 # JobAnalyzer
 
+Application Description:
+This application is called "Job Analyzer" and was created by Daniel Le in the summer of 2020 as a personal project. The purpose of this project is to allow the user to track
+and produce control charts of jobs for the purposes of process improvement. These are the raw files that were then used to create a downloadable and executable application
+in a .exe format.
+
+Features:
+Upon opening, the user is greeted with a welcome message. After dismissing the message, the user is greeted with an input window. This window is where the user inputs their
+job information, from start and end dates, to departments involved. For further details, click the "Help" button. Upon clicking the "Set Parameters" button, the user views a
+window that allow them to generate a control chart based on filters/paramters. The user is able to filter by customer name, department, start and end date, and more. If fields
+are left blank, these fields will not be used to filter data. Before generating the graph, the user has the option to save the graph as a .png file. Clicking "Generate Chart"
+will show the user the generated contorl chart, complete with upper and lower control limits. For more information, click the "Help" button.
+
+# Set Up Guide:
+
 These instructions will help you to properly install your version of Job Analyzer. Please note, this appliciation will not make sense as it was create with a specific
 user in mind. This repository is for demonstration purposes only.
 

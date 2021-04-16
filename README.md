@@ -25,14 +25,14 @@ Download Instructions:
 3. Download and unzip the JobAnalyzer repository (titled "JobAnalyzer-master") to a convinient location on your system.
 4. Open the root folder in any IDE in a new Java project.
 5. Add the correct libraries to the libraries section in the project (this process is slightly different for every IDE, detailed below are the instructions for NETBEANS and VSCode)
-   5a. NETBEANS Instructions
-     i. On the left side of the screen, click the "Projects" tab
-     ii. Expand the "ORANGE_COAST_TESTING_APP" project
-     iii. Scroll down to the "Libraries" folder, most likely near the bottom
-     iv. Right click on the "Libraries" folder and click "Add JAR/Folder..."
-     v. Navigate to JobAnalyzer-master/dist/lib/jfreechart-1.0.19.jar and click open
-     vi. Right click on the "Libraries" folder and click "Add JAR/Folder..."
-     vii. Navigate to JobAnalyzer-master/dist/lib/jcommon-1.0.23.jar and click open
+   5. NETBEANS Instructions
+     5. On the left side of the screen, click the "Projects" tab
+     5. Expand the "ORANGE_COAST_TESTING_APP" project
+     5. Scroll down to the "Libraries" folder, most likely near the bottom
+     5. Right click on the "Libraries" folder and click "Add JAR/Folder..."
+     5. Navigate to JobAnalyzer-master/dist/lib/jfreechart-1.0.19.jar and click open
+     5. Right click on the "Libraries" folder and click "Add JAR/Folder..."
+     5. Navigate to JobAnalyzer-master/dist/lib/jcommon-1.0.23.jar and click open
    5b. VSCode Instructions
      i. Click "File" in the toolbar at the top and click "Open Folder..."
      ii. Select the "JobAnalyzer-master" folder

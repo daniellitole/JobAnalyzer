@@ -1,9 +1,7 @@
 # JobAnalyzer
 
 Application Description:
-This application is called "Job Analyzer" and was created by Daniel Le in the summer of 2020 as a personal project. The purpose of this project is to allow the user to track
-and produce control charts of jobs for the purposes of process improvement. These are the raw files that were then used to create a downloadable and executable application
-in a .exe format.
+This application is called "Job Analyzer" and was created by Daniel Le in the summer of 2020 as a intern project. The purpose of this project is to allow his employer, Orange Coast Testing to track and produce control charts of jobs for the purposes of process improvement. These are the raw files that were then used to create a downloadable and executable application in a .exe format.
 
 Features:
 Upon opening, the user is greeted with a welcome message. After dismissing the message, the user is greeted with an input window. This window is where the user inputs their
@@ -14,8 +12,8 @@ will show the user the generated contorl chart, complete with upper and lower co
 
 # Set Up Guide:
 
-These instructions will help you to properly install your version of Job Analyzer. Please note, this appliciation will not make sense as it was create with a specific
-user in mind. This repository is for demonstration purposes only.
+These instructions will help you to properly install your version of Job Analyzer. Please note, this appliciation may not make sense as it was create with a specific
+user (Orange Coast Testing management staff) in mind. This repository is for demonstration purposes only.
 
 Download Instructions:
 1. Download the latest version of the Java Runtime Environment (JRE) at the following link: https://java.com/en/download/manual.jsp
@@ -55,6 +53,6 @@ Start Up Instructions:
       - Click the run button located near the top-right of the window, should look like a play button
 2. Upon running you will be greeted with a welcome message
 3. After dismissing the welcome message, you will see a data input page
-   - Before attempting to access other features of the application, be sure to input some dummy information. This is not needed when this applicationis being used in its
+   - Before attempting to access other features of the application, be sure to input some dummy information. This is not needed when this application is being used in its
        intended situation, but due to confidentiality reasons, the .txt file storing the information had to be omitted from this repository
 4. For questions regarding this application's capabilities, see the application description above.
